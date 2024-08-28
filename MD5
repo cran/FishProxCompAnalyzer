@@ -1,0 +1,12 @@
+4ad1e026644cef4b04256fabcc1087e0 *DESCRIPTION
+dce7b54434b2b881b8acf3805570b9ca *NAMESPACE
+c7c30a5ea79ddedde64cf5202369a4a7 *R/CrudeFat.R
+5a6105d9ec17b5384a8098594da60e7e *R/CrudeFiber.R
+806ff3366e940d11eed803a63d344509 *R/CrudeProtein.R
+b24f1c481cc12fc6b4849be1224c0e7e *R/Moisture.R
+64fb73ec93bb8d524e41436054e53176 *R/TotalAsh.R
+3cb7490391492cf9e1e6a3621609c046 *man/CrudeFat.Rd
+489cb3c73fef4fd9fb55c006a7b3de9f *man/CrudeFiber.Rd
+3541ab8abc66070e0e2ac6eeaa113405 *man/CrudeProtein.Rd
+f9da3ee2cac766ba1e108801309e464b *man/Moisture.Rd
+f4ce8a4989bc918330f9c9d5801005da *man/TotalAsh.Rd
